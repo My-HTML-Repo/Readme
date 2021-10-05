@@ -1,7 +1,7 @@
 # Readme
 Read this!
 
-My-HTML-Repo Learning Order:
+My-HTML-Repo in order:
 
 1. HTML
 
