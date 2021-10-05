@@ -16,4 +16,29 @@ My-HTML-Repo Learning Order:
 - https://github.com/My-HTML-Repo/html-9-nested-html-tags-and-attributes
 - https://github.com/My-HTML-Repo/html-10-html-link-tag-with-href
 - https://github.com/My-HTML-Repo/html-11-text-formatting-lab
+- https://github.com/My-HTML-Repo/html-12-fundamentals-lists-images-links
+- https://github.com/My-HTML-Repo/html-13-lists-lab
+- https://github.com/My-HTML-Repo/html-14-tables-lab
+- https://github.com/My-HTML-Repo/html-15-images-lab
+- https://github.com/My-HTML-Repo/html-16-fundamentals-validation
+- https://github.com/My-HTML-Repo/html-17-basics-expanding-html-vocabulary
+- https://github.com/My-HTML-Repo/html-18-basics-researching-html-elements
+- https://github.com/My-HTML-Repo/html-19-fundamentals
+- https://github.com/My-HTML-Repo/html-20-document-structure-lab
+- https://github.com/My-HTML-Repo/html-21-issue-bot-9000-lab
+- https://github.com/My-HTML-Repo/html-22-fundamentals-dev-tools-super-power
+- https://github.com/My-HTML-Repo/html-23-album-cover-lab
+- https://github.com/My-HTML-Repo/html-24-riyadh-blog-lab
+
+2. HTML continued
+
+- https://github.com/My-HTML-Repo/HTML-1-Forms
+- https://github.com/My-HTML-Repo/HTML-2-forms-lab
+- https://github.com/My-HTML-Repo/HTML-3-iframes
+- https://github.com/My-HTML-Repo/HTML-4-iframes-lab
+- https://github.com/My-HTML-Repo/HTML-5-HTML5-Media
+- https://github.com/My-HTML-Repo/HTML-6-html5-video-embed-lab
+- https://github.com/My-HTML-Repo/HTML-7-HTML5-Semantic-Elements
+- https://github.com/My-HTML-Repo/HTML-8-html5-semantic-containers-lab
+
 
